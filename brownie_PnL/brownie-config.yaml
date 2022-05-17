@@ -1,0 +1,3 @@
+dotenv: .env
+network:
+  default: polygon-main

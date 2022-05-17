@@ -1,0 +1,2 @@
+brownie networks add "Polygon" Poly host="https://nd-132-845-370.p2pify.com/662c6c949670c9d356d64591ca288a2e" chainid=137 explorer="https://api.polygonscan.com/api"
+brownie networks add "Ethereum" Eth host="https://nd-132-845-370.p2pify.com/662c6c949670c9d356d64591ca288a2e" chainid=1 explorer="https://api.etherscan.io/api"
